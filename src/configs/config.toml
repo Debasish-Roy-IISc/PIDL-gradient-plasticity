@@ -1,0 +1,7 @@
+[module]
+hidden_width = 64
+num_hidden_layers = 3
+
+[training]
+epochs = 50000
+print_every = 1000
